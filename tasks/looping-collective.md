@@ -29,29 +29,39 @@ What teams need to submit.
 - README with setup instructions
 - Short demo video (≤ 3 minutes) - optional
 
-## 5. Technical Notes / Helpful Links
+## 5. Bounty / Prize
+
+**Amount:** $3,000  
+**Distribution:** Winner takes it all
+
+## 6. Judges
+
+- **Sponsor:** Jannik, Looping Collective
+- **Mentor:** Nayan, Galaxy
+
+## 7. Technical Notes / Helpful Links
 
 - LOOP token address: 0x00fdbc53719604d924226215bc871d55e40a1009
 - Note: Current HyperEVM multisig solution is not great with Onchainden. Teams should consider alternative approaches or improvements to the multisig integration.
 
-## 6. Suggested Tech Stack (Optional)
+## 8. Suggested Tech Stack (Optional)
 
 - Frontend: Next.js, Vercel (for viewing entitlements and distributions)
 - Backend: Node.js, Golang (for distribution list processing and multisig integration)
 - Smart Contracts: Solidity
 - Multisig Integration: Safe SDK or Safe API
 
-## 7. Difficulty Level & Estimated Time
+## 9. Difficulty Level & Estimated Time
 
 **Difficulty:** Intermediate  
 **Estimated Time:** 10–20h+
 
-## 8. Stretch Goals (Optional Bonus Points)
+## 10. Stretch Goals (Optional Bonus Points)
 
 - Onchainden alternative
 - Gas optimization for batch token transfers
 
-## 9. Evaluation Criteria (How Judges Score)
+## 11. Evaluation Criteria (How Judges Score)
 
 **Judges score on:**
 

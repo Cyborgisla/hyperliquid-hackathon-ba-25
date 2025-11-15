@@ -28,24 +28,34 @@ What teams need to submit.
 
 If something else is required, add it here.
 
-## 5. Technical Notes / Helpful Links
+## 5. Bounty / Prize
+
+**Amount:** $5,000 in Lava  
+**Distribution:** Winner takes it all
+
+## 6. Judges
+
+- **Sponsor:** Yair, Lava
+- **Mentor:** Astrid, SMAPE Capital
+
+## 7. Technical Notes / Helpful Links
 
 - Lava RPC API docs: https://docs.lavanet.xyz/quickstart
 - Accessing Hyperliquid RPC API endpoints (video walkthrough): https://youtu.be/yFQ3mq2F-Cc
 - Lava RPC API UI: https://accounts.lavanet.xyz/
 
-## 6. Suggested Tech Stack (Optional)
+## 8. Suggested Tech Stack (Optional)
 
 No specific requirements. Core tech requirement is to use Lava RPC API.
 
-## 7. Difficulty Level & Estimated Time
+## 9. Difficulty Level & Estimated Time
 
 **Difficulty:** Intermediate
 **Estimated Time:** 6–10 hours
 
-## 8. Stretch Goals (Optional Bonus Points)
+## 10. Stretch Goals (Optional Bonus Points)
 
-## 9. Evaluation Criteria (How Judges Score)
+## 11. Evaluation Criteria (How Judges Score)
 
 Sponsors can leave this section unchanged - organizers apply the hackathon rubric.
 
