@@ -18,6 +18,26 @@ Whether you’re writing smart contracts, designing integrations, or sparking cu
 
 ---
 
+## Agenda
+
+### Day 1 – Nov 15
+
+- **8:30** Doors open (coffee + setup)
+- **9:30** Opening ceremony + sponsor track presentations
+- **10:00** Hacking begins
+- **12:00 - 15:00** Lunch
+- **18:00** Sound bath to reset your brain
+
+**Hack all night.**
+
+### Day 2 – Nov 16
+
+- **12:00 - 15:00** Lunch
+- **15:00** Project submissions due
+- **17:30** Closing Ceremony
+
+---
+
 ## Sponsored Bounties
 
 There are **four sponsored tasks** and **one wildcard track** open to any idea that pushes the HyperEVM ecosystem forward.
