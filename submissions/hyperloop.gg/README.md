@@ -4,7 +4,7 @@
 
 [![Watch Demo](http://img.youtube.com/vi/jAmUaiQQews/0.jpg)](https://youtu.be/jAmUaiQQews)
 
-*Click to watch the demo walkthrough*
+*Click to watch the [YouTube](https://youtu.be/jAmUaiQQews) demo walkthrough*
 
 Automated leverage loops with intelligent risk management, DCA strategies, and USDXL integration for maximizing returns on HyperEVM.
 
@@ -119,6 +119,8 @@ The connected dashboard displays four stat cards showing total deposited, curren
 ## 📊 Demo
 
 **Live Demo**: [https://hyperloop.gg](https://hyperloop.gg)
+
+**YouTube Demo Video**: [https://youtu.be/jAmUaiQQews](https://youtu.be/jAmUaiQQews)
 
 **Deployed Contracts**:
 - HypurrAutoLoopVault: Deployment in progress (see REMIX_DEPLOYMENT_GUIDE.md for instructions)
